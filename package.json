@@ -11,13 +11,16 @@
   "dependencies": {
     "connect-redis": "^3.3.3",
     "excel": "^1.0.0",
+    "excel-cell-parser": "^1.0.1",
     "fs": "0.0.1-security",
     "fs.promised": "^3.0.0",
+    "iconv-lite": "^0.4.23",
     "koa": "^2.5.1",
     "koa-body": "^4.0.3",
     "koa-route": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
-    "redis": "^2.8.0"
+    "redis": "^2.8.0",
+    "xlsx": "^0.13.1"
   }
 }
